@@ -1,8 +1,6 @@
 #include "header.h"
 #include "Square.h"
 
-int Square :: i;
-
 int main(){
     
     setlocale(LC_ALL, "ru");
