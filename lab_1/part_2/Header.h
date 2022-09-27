@@ -4,6 +4,6 @@
 #include <iostream>
 #include <locale>
 
-using namespace :: std;
+using namespace std;
 
 #endif
