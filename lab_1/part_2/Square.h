@@ -1,7 +1,5 @@
 #include "header.h"
 
-using namespace std;
-
 class Square
 {
 private:
@@ -15,13 +13,13 @@ public:
 		y1 = 0;
 	}
 
-	Square(double inpx, double inpy) {
+	Square (double inpx, double inpy) {
 		cout << "Create obj " << endl;
 		x1 = inpx;
 		y1 = inpy;
 	}
 
-	Square(const Square &copy) {
+	Square (const Square &copy) {
 		cout << "Copy obj" << endl;
 		x1 = copy.x1;
 		y1 = copy.y1;
@@ -72,12 +70,4 @@ public:
 		return x1 * y1;
 	}
 
-	/*void DI() {
-		int i = 1000;
-		while (i>0)
-		{
-			cout << i << endl;
-			i -= 7;
-		}
-	}*/
 };
