@@ -7,7 +7,7 @@ int main(){
 
     Square sq1;
 
-	Square sq2(25, 10);
+    Square sq2(25, 10);
 
 		sq1.SetX();
 
@@ -23,7 +23,7 @@ int main(){
 		
 		Square sq3 = sq1;
 
-        sq3.Get();
+       		sq3.Get();
 
 	return 0;
 }
