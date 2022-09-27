@@ -52,14 +52,6 @@ public:
 		return x1 * y1;
 	}
 
-	/*void DI() {
-		int i = 1000;
-		while (i>0)
-		{
-			cout << i << endl;
-			i -= 7;
-		}
-	}*/
 };
 
 int main() {
