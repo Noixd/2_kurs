@@ -49,11 +49,6 @@ class Square
 			cout << "Destruct obj " << adress << endl;
 		}
 
-		/*int ID(){
-			int s_adress;
-			return s_adress++;
-		}*/
-
 		void SetX() { 
 			cout << "Input X" << endl;
 			cin >> x1;
@@ -76,17 +71,8 @@ class Square
 
 			cout << "Area of " << adress << " rectanlge: "; 
 
-			cout << x1 * y1 << endl;
+			cout << abs(x1 * y1) << endl;
 		}
-
-		/*void DI() {
-			int i = 1000;
-			while (i>0)
-			{
-				cout << i << endl;
-				i -= 7;
-			}
-		}*/
 };
 
 int Square :: i;
