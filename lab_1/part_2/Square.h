@@ -67,7 +67,7 @@ public:
 	}
 
 	double Area() {
-		return x1 * y1;
+		return abs(x1 * y1);
 	}
 
 };
