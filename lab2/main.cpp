@@ -5,6 +5,7 @@ int Square :: i;
 
 int main(){
 
+	
     setlocale(LC_ALL, "ru");
 
 		Line ln1;
@@ -12,8 +13,10 @@ int main(){
 
 		ln1.SetX2();
 		ln1.SetY2();
-		sq1.SetX();
-		sq1.SetY();
+		ln1.SetX();
+		ln1.SetY();
+
+		ln1.Get1();
 
 		ln1.lenght();
 		
