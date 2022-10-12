@@ -36,7 +36,7 @@ double x1, y1;
 			cout << "Copy obj " << copy.adress << " to " << adress << endl;
 		}
 
-		~Square() {
+		virtual ~Square() {
 			
 			cout << "Destruct obj " << adress << endl;
 		}
