@@ -14,7 +14,7 @@ public:
         cout << "Create obj " << endl;
     }
 
-    ~Admin(){
+    virtual ~Admin(){
         cout << "Destruct obj " << endl;
     }
 
