@@ -1,0 +1,10 @@
+C:\Users\bebes\source\repos\Part2\bin\Debug\Part2.exe.config
+C:\Users\bebes\source\repos\Part2\bin\Debug\Part2.exe
+C:\Users\bebes\source\repos\Part2\bin\Debug\Part2.pdb
+C:\Users\bebes\source\repos\Part2\obj\Debug\Part2.csproj.AssemblyReference.cache
+C:\Users\bebes\source\repos\Part2\obj\Debug\Part2.Form1.resources
+C:\Users\bebes\source\repos\Part2\obj\Debug\Part2.Properties.Resources.resources
+C:\Users\bebes\source\repos\Part2\obj\Debug\Part2.csproj.GenerateResource.cache
+C:\Users\bebes\source\repos\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+C:\Users\bebes\source\repos\Part2\obj\Debug\Part2.exe
+C:\Users\bebes\source\repos\Part2\obj\Debug\Part2.pdb
